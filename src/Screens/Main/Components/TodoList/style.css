@@ -1,0 +1,45 @@
+
+ul {
+  padding: 0;
+  margin: 10px 25px;
+}
+
+.listsContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 1000px;
+  margin: 50px;
+}
+
+.easyList {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  background-color: #00A14B;
+  border-radius: 10px;
+}
+
+.hardList {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  background-color: rgba(245, 0, 49, 0.904);
+  border-radius: 10px;
+}
+
+.mediumList {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  background-color: #F8BA00;
+  border-radius: 10px;
+}
+
+h3{
+  font-size: 30px;
+  align-self: center;
+}
+
+
+
+
