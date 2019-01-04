@@ -1,0 +1,19 @@
+li {
+  margin: 10px;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.done {
+  text-decoration-line: line-through;
+}
+
+.todoContainer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+img {
+  margin-right: 21px;
+}
